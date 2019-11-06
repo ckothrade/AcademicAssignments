@@ -1,0 +1,3 @@
+Course: ser221 Fall-2016 
+
+Description: Running the program starts a new game of Pig with the computer. The player begins by rolling a dye. A score of 2-6 will be added to a score count, where the player or cpu can determine if they would like to keep rolling or hold to permanently store their points for the round. If a 1 is rolled all points for the round are lost and the next roll belongs to the opponent. First player to reach 100 pts wins.
