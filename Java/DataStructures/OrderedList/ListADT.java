@@ -8,7 +8,7 @@
  * @version 4.0
  */
 public interface ListADT<T>
-{
+{   
     /**  
      * Removes and returns the first element from this list. 
      * 
